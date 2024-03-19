@@ -1,0 +1,6 @@
+E:\Viveka\asp.net task\3TierCrud\Bol\bin\Debug\Bol.dll
+E:\Viveka\asp.net task\3TierCrud\Bol\bin\Debug\Bol.pdb
+E:\Viveka\asp.net task\3TierCrud\Bol\obj\Debug\Bol.csproj.AssemblyReference.cache
+E:\Viveka\asp.net task\3TierCrud\Bol\obj\Debug\Bol.csproj.CoreCompileInputs.cache
+E:\Viveka\asp.net task\3TierCrud\Bol\obj\Debug\Bol.dll
+E:\Viveka\asp.net task\3TierCrud\Bol\obj\Debug\Bol.pdb

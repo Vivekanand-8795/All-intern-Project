@@ -1,0 +1,6 @@
+E:\Viveka\asp.net task\3Tier\BO\bin\Debug\BO.dll
+E:\Viveka\asp.net task\3Tier\BO\bin\Debug\BO.pdb
+E:\Viveka\asp.net task\3Tier\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+E:\Viveka\asp.net task\3Tier\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+E:\Viveka\asp.net task\3Tier\BO\obj\Debug\BO.dll
+E:\Viveka\asp.net task\3Tier\BO\obj\Debug\BO.pdb

@@ -1,0 +1,17 @@
+E:\Viveka\asp.net task\3Tier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Viveka\asp.net task\3Tier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\DAL.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\DAL.pdb
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\BO.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.AccessControl.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.Permissions.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.Principal.Windows.dll
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\BO.pdb
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.AccessControl.xml
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.Permissions.xml
+E:\Viveka\asp.net task\3Tier\DAL\bin\Debug\System.Security.Principal.Windows.xml
+E:\Viveka\asp.net task\3Tier\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Viveka\asp.net task\3Tier\DAL\obj\Debug\DAL.dll
+E:\Viveka\asp.net task\3Tier\DAL\obj\Debug\DAL.pdb

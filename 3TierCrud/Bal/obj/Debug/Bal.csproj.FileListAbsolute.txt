@@ -1,0 +1,13 @@
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Bal.dll.config
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Bal.dll
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Bal.pdb
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Bol.dll
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Dal.dll
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Bol.pdb
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Dal.pdb
+E:\Viveka\asp.net task\3TierCrud\Bal\bin\Debug\Dal.dll.config
+E:\Viveka\asp.net task\3TierCrud\Bal\obj\Debug\Bal.csproj.AssemblyReference.cache
+E:\Viveka\asp.net task\3TierCrud\Bal\obj\Debug\Bal.csproj.CoreCompileInputs.cache
+E:\Viveka\asp.net task\3TierCrud\Bal\obj\Debug\Bal.csproj.CopyComplete
+E:\Viveka\asp.net task\3TierCrud\Bal\obj\Debug\Bal.dll
+E:\Viveka\asp.net task\3TierCrud\Bal\obj\Debug\Bal.pdb

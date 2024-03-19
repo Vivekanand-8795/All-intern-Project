@@ -1,0 +1,59 @@
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\Attendance Project.dll.config
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\Attendance Project.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\Attendance Project.pdb
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csc.exe
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csc.exe.config
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csc.rsp
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csi.exe
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csi.exe.config
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\csi.rsp
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.AppContext.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Console.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.IO.Compression.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.IO.FileSystem.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Net.Http.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Net.Sockets.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.ValueTuple.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Xml.XPath.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\vbc.exe
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\vbc.exe.config
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\vbc.rsp
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\VBCSCompiler.exe
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\obj\Debug\Attendance Project.csproj.AssemblyReference.cache
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\obj\Debug\Attendance Project.csproj.CoreCompileInputs.cache
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\obj\Debug\Attendance Project.csproj.CopyComplete
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\obj\Debug\Attendance Project.dll
+E:\Viveka\asp.net task\Attendance Project\Attendance Project\obj\Debug\Attendance Project.pdb

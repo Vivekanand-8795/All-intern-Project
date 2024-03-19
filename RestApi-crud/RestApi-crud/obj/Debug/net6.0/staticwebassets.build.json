@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gyWKASDzDiKuXSvhQcs2R/mSc0EHqlxpo5xMU+gK3OE=",
+  "Source": "RestApi-crud",
+  "BasePath": "_content/RestApi-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
